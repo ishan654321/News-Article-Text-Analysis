@@ -7,4 +7,4 @@ There is also use of some widely used simple techniques in NLP as well like n-gr
 
 - The python file .html is main code of project.
 - The news_article1.csv is main csv file we started with.
-- The article analysis newspaper is updated csv file with url text of website and scores.
+- The article analysis newspaper(for text extraction we started with newspaper3k library thus stored with this name but later on we didn't change it so..) is updated csv file with url text of website and scores.
